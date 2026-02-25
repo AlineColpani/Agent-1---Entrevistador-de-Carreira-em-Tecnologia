@@ -1,0 +1,10 @@
+carreira_escolhida: "Cientista de Dados"
+horas_semanais: 10
+nivel_experiencia: "zero"
+objetivo: "transição de carreira"
+preferencia: "dados"
+interesses_tecnicos:
+  - dados
+  - inteligência artificial
+  - aplicativos mobile
+experiencia_previa: "assistente em agência bancária"
